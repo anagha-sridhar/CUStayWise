@@ -1,4 +1,4 @@
-# Livability Score & Ghost Landlord Detector
+# Livability Score
 
 This project is a **Flask-based web application** designed to help New York City residents analyze urban livability using public 311 complaint data. It provides a comprehensive dashboard for visualizing complaint trends, searching for specific building health scores, and identifying "Ghost Landlords" based on maintenance responsiveness.
 
